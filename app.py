@@ -1,7 +1,6 @@
 import streamlit as st
 import google.generativeai as genai
 
-st.image(".\Black Minimal Motivation Quote LinkedIn Banner.png")
 
 st.title("My First Project")
 
