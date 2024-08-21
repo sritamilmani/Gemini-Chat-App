@@ -4,7 +4,7 @@ import google.generativeai as genai
 
 st.title("My First Project")
 
-genai.configure(api_key="AIzaSyCwPGS6ofVU7HS1win48RWx1-Jf0CBRa54")
+genai.configure(api_key="AIzaSyA77A204c9dKawAZZLJ14Mv6mSnKvIPwk4")
 text=st.text_input("Enter your Question")
 
 if (text.strip() or st.button("Click Me")): 
